@@ -1,2 +1,2 @@
-# inteligencia-artificial
+# inteligencia Artificial
 ContenidoDelCurso2019-II
